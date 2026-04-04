@@ -1,0 +1,36 @@
+{
+    "income": 1200000,
+    "categories": {
+        "Gym": {
+            "budget": 150000,
+            "spent": 0
+        },
+        "Potong Rambut": {
+            "budget": 45000,
+            "spent": 40000
+        },
+        "Kuota": {
+            "budget": 60000,
+            "spent": 0
+        },
+        "Ngopi/Tugas": {
+            "budget": 300000,
+            "spent": 0
+        },
+        "Self Reward": {
+            "budget": 545000,
+            "spent": 0
+        },
+        "Tabungan": {
+            "budget": 100000,
+            "spent": 0
+        }
+    },
+    "history": [
+        {
+            "date": "2026-04-04",
+            "category": "Potong Rambut",
+            "amount": 40000
+        }
+    ]
+}
