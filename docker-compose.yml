@@ -1,0 +1,11 @@
+services:
+  goland-finance:
+    build: .
+    container_name: goland-finance-app
+    ports:
+      - "6500:8501"
+    volumes:
+      - ./finance_data.json:/app/finance_data.json
+    restart: always
+
+
