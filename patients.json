@@ -1,0 +1,17 @@
+[
+    {
+        "nama": "goland",
+        "umur": 33,
+        "gejala": [
+            "pingsan",
+            "keringat dingin",
+            "sesak napas",
+            "nyeri dada"
+        ],
+        "triage_level": 1,
+        "status": "DARURAT",
+        "rekomendasi": "Segera hubungi ambulance (119). Dudukkan pasien, longgarkan pakaian, jika ada beri aspirin (jika tidak alergi).",
+        "image": null,
+        "timestamp": "2026-04-08 10:20:17.773787"
+    }
+]
